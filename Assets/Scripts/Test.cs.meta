@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 019a15857fe25984aa6dbb66b886bf98
+timeCreated: 1437147948
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_textureInvisible: {instanceID: 0}
+  - m_textureNaked: {fileID: 2800000, guid: 7e09641d7429b4b1e957f9a99584f25b, type: 3}
+  - m_textureBadge: {fileID: 2800000, guid: de93a5a9208064362816d3cf79ae48d1, type: 3}
+  - m_textureWarning: {fileID: 2800000, guid: 9c3bace2fd320477e89327fed73137e1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

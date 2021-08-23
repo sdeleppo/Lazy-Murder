@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Lovecraft\Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs">
+    <Files>
+      <File FileName="..\..\Lovecraft\Assets\Scripts\CompanionFollow.cs" Line="28" Column="83" />
+      <File FileName="..\..\Lovecraft\Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
